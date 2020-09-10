@@ -8,7 +8,7 @@ export default function RoomList({ rooms }) {
         <h3>unfortunatey no rooms matched your parameters</h3>
       </div>
     );
-  }
+  }  
 
   return (
     <section className="roomslist">
